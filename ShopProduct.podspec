@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary          = 'Feature component providing product detail page for the Shop app.'
   s.description      = 'ShopProduct provides ProductDetailViewController, ProductDetailViewModel, route registration, and Target_Product for cross-component access via CTMediator.'
   s.homepage         = 'https://github.com/inhua/ShopProduct'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = { :type => 'MIT' }
   s.author           = { 'inhua' => 'dev@inhua.com' }
   s.source           = { :git => 'https://github.com/inhua/ShopProduct.git', :tag => s.version.to_s }
 
