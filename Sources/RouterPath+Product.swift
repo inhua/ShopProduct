@@ -2,7 +2,7 @@
 import ShopRouter
 
 public extension RouterPath {
-    struct Product {
+    //struct Product {
         //public static let detail = "\(RouterPath.scheme)://product/detail"
-    }
+    //}
 }
